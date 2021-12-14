@@ -415,7 +415,7 @@ Wire Wire Line
 Text Label 9500 3700 2    50   ~ 0
 PC6_~RESET
 Text Label 9500 3800 2    50   ~ 0
-~RESET
+~SS~_~RST
 Text Label 9500 4100 2    50   ~ 0
 A2
 Text Label 9500 4200 2    50   ~ 0
